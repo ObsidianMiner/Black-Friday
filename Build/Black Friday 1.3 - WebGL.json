@@ -1,0 +1,16 @@
+{
+"companyName": "ChesestickStudios",
+"productName": "Black Friday",
+"productVersion": "1.3",
+"dataUrl": "Black Friday 1.3 - WebGL.data.unityweb",
+"wasmCodeUrl": "Black Friday 1.3 - WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Black Friday 1.3 - WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#A28F80",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
